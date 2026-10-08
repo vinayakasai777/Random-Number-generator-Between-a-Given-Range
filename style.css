@@ -9,6 +9,10 @@ p{
 #upper-limit, #lower-limit {
     height: 1.5em;
 }
+#confirmation{
+    text-align: center;
+    font-size: 2em;
+}
 #submit,#generator{
     display: block;
     margin: auto;
